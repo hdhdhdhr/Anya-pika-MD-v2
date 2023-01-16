@@ -7,7 +7,7 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "Queen أنيا" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
 global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
@@ -16,16 +16,16 @@ actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of 
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
+             global.ownernumber = ['96892325568']   // Owner number //
+             global.vcardowner = ['96892325568']   // vcard owner number //
+             global.ownername = "فانيتاس"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
+             global.owner = ['96892325568']
+             global.ownertag = '96892325568'  // Tag number //
+             global.linkz = "https://wa.me/+96892325568"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['96892325568']  // premium numbers //             
              global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
@@ -44,40 +44,40 @@ nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻'
 nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
 
 //--------Text for document captions--------\\
-global.Menudoccap1 = 'Best friendly Bot for you...'
-global.Menudoccap2 = 'Always available for you Darling....'
-global.Menudoccap3 = '𝘉𝘦𝘴𝘵 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘣𝘰𝘵 𝘧𝘰𝘳 𝘺𝘰𝘶...'
-global.Menudoccap4 = "Isn't the moon lovely?"
-global.Menudoccap5 = 'Cutest bot ever saw<3'
+global.Menudoccap1 = 'افضل بوت طيب بالنسبة لك...'
+global.Menudoccap2 = 'دائما متصل قلبي....'
+global.Menudoccap3 = 'افضل بوت بالنسبه لك...'
+global.Menudoccap4 = "اليس القمر جميل؟"
+global.Menudoccap5 = 'البوت اكيت ما را<3'
 
 //--------Random Tag msg--------\\
-tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘢𝘸𝘦𝘴𝘰𝘮𝘦 𝘉𝘰𝘵.' 
-tag2 = '𝘖𝘺𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦!! 𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?😐' 
-tag3 = '𝘈𝘣𝘦𝘺 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘢𝘰 𝘺𝘢𝘢𝘳!😑' 
-tag4 = '𝘞𝘰𝘸 𝘭𝘰𝘰𝘬 𝘢𝘵 𝘵𝘩𝘪𝘴 𝘢𝘥𝘷𝘢𝘯𝘤𝘦 𝘉𝘰𝘵.😚' 
-tag5 = '𝘠𝘢𝘢𝘳 𝘬𝘺𝘢 𝘉𝘰𝘵 𝘩𝘢𝘪❤️' 
-tag6 = '𝘐𝘵𝘯𝘢 𝘮𝘻𝘢 𝘬𝘺𝘶 𝘢𝘢 𝘳𝘩𝘢 𝘩𝘢𝘪...𝘛𝘶𝘯𝘦 𝘩𝘢𝘸𝘢 𝘮𝘦 𝘣𝘩𝘢𝘯𝘨 𝘮𝘪𝘭𝘢𝘺𝘢 𝘩𝘢𝘪!🥵' 
-tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?' 
-tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘖𝘗 𝘉𝘰𝘵!🔥' 
-tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 𝘈𝘯𝘺𝘢❤️🍫' 
-tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
+tag1 = 'مرحبا بالجميع😊, اتمنى ان تستخدم هذا البوت'
+tag2 = '😐اوي الجميع!! اين انتم؟' 
+tag3 = 'همممممم!😑' 
+tag4 = '😚.واو انظر هذي انيا بوت المتطور' 
+tag5 = '❤️معكم البوت انيا اهلا' 
+tag6 = 'hallaa!' 
+tag7 = 'اين انتم جميعا؟' 
+tag8 = '🔥!مرحبا اين انتم جميعا؟...تعالو الى هنا استخدو البوت' 
+tag9 = '❤️🍫عليكم جميعا ان تجربو هذا البوت الكيوت انيا' 
+tag10 = '!!😚الالطيف هي انا انياا' 
 
 
 global.mess = {
-    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
-    admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑",
-    botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
-    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
-    group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
-    private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
-    bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
-    wait: "I'm progressing your command baby❤️, Please wait......",
-    linkm: 'Abey where is the link...?',
-    error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
+    success: 'العمل منتهي 😊',
+    admin: "حبيبي هذا الأمر مخصص فقط للأدمن...لذا لا يمكنني أن انفذ لك هذا الامر.😓",
+    botAdmin: 'اولا اجعلني مشرفه!!!🙃',
+    owner: 'Tهذا الأمر فقط ل مالكي..',
+    group: "باكا !!!!! / لا يمكنك استخدام هذا الأمر في الخاص !😑",
+    private: 'انت فقط باكا !!\الامر فقط في الخاص. 🥲',
+    bot: "هذي الميزه فقط للبوت... وانت لست بوت.",
+    wait: "انا اعمل على الامر حبيبي❤️, من فضلك انتضر......ك",
+    linkm: 'اين الرابط...؟ا',
+    error: 'انا حصلت على ايرور!!ا',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the 𝗼𝘄𝗻𝗲𝗿 😡, if you want to be 𝘂𝗻𝗯𝗮𝗻𝗻𝗲𝗱, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
-    banChat: 'The bot was banned 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽!, please contact the owner to unban.'
+    ban: 'لقد حصلت على حظر من قبل سيدي 😡, اذا اردت الغاء الحظر, كلم ابي فانيتاس.',
+    nsfw: 'لم يتم تنشيط هذي الميزه 👏',
+    banChat: 'تم حظر الروبوت من هذي المجموعه!, رجاءا كلم المالك لالغاء الحظر.'
 }
 
 //--------------- Document message --------------\\
